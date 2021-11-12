@@ -133,7 +133,7 @@ section{
     padding: 7px 15px;
     font-size: 16px;
     color: #024e76;
-    width: 100%;
+    width: 90%;
     margin-bottom: 15px;
 
 }
@@ -436,7 +436,7 @@ section{
         width: 100%;
     }
 
-    .hero-cta .hero-form {
+    .hero-cta, .hero-form {
         width: 100%;
     }
 
